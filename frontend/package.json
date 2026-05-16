@@ -1,0 +1,24 @@
+{
+  "name": "health-fatloss-frontend",
+  "version": "1.0.0",
+  "description": "Health Fat Loss System Frontend",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.1.0",
+    "axios": "^1.5.0",
+    "element-plus": "^2.3.12",
+    "echarts": "^5.4.3",
+    "dayjs": "^1.11.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  }
+}
